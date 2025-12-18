@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "WorkoutTrackerDb": "Server=localhost;Database=WorkoutTracker;Trusted_Connection=True;TrustServerCertificate=True"
+  }
+}
