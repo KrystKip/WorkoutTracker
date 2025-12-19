@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using WorkoutTracker.db.Entities;
 
-namespace WorkoutTracker.Db.Data
+namespace WorkoutTracker.db.Data
 {
     /// <summary>
     /// Entity Framework Core database context. This class manages the connection to the database and maps entities to database tables.

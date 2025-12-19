@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using WorkoutTracker.db.Entities;
 
-namespace WorkoutTracker.Db.Configurations
+namespace WorkoutTracker.db.Configurations
 {
     /// <summary>
     /// Fluent API configuration for Exercise entity.

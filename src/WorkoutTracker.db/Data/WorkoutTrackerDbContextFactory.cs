@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Design;
 using Microsoft.Extensions.Configuration;
 using System.IO;
-using WorkoutTracker.Db.Data;
+using WorkoutTracker.db.Data;
 
 
 namespace WorkoutTracker.db.Data
